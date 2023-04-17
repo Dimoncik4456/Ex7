@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&family=Rubik+Beastly&family=Rubik+Dirt&family=Rubik+Gemstones&family=Rubik+Glitch&family=Rubik+Marker+Hatch&family=Rubik+Maze&family=Rubik+Moonrocks&family=Rubik+Storm&family=Rubik+Wet+Paint&display=swap');
+body{
+    background-image: url(https://phonoteka.org/uploads/posts/2022-02/thumbs/1643881219_4-phonoteka-org-p-ukrainskii-fon-4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-family: 'Rubik Storm', cursive;
+    color: gold;
+}
+.text1{
+    font-family: cursive;
+    margin: 0px 0px 30px 0px;
+    color: greenyellow;
+}
+.text2{
+     font-family: "Lucida Console", Courier, monospace;
+     font-style: oblique;
+     color: lime;
+}
+.text3{
+    font-family: 'Marck Script', cursive;
+    font-weight: 700;
+    color: gold;
+}.text4{
+   font-family: 'Rubik Beastly', cursive;
+    text-transform: uppercase;
+    color: darkred;
+}
+.text5{
+   font-family: 'Rubik Moonrocks', cursive;
+    text-transform: lowercase;
+    color: purple;
+}
+.text6{
+     font-family: 'Rubik Gemstones', cursive;
+     text-transform: uppercase;
+     font-style: inherit;
+     color: darkblue;
+}
+ul li {
+  background: #006400;
+  margin: 5px;
+  color: aqua;
+}
+.text7{
+    font-family: 'Rubik Marker Hatch', cursive;
+    color: navy;
+}
+.text8{
+    font-family: 'Rubik Glitch', cursive;
+    font-style: revert;
+    color: mediumblue;
+}
+h2{
+    font-family: 'Rubik Wet Paint', cursive;
+    font-style: unset;
+    color: maroon;
+}
+h3{
+    font-family: 'Rubik Maze', cursive;
+    font-style: italic;
+    color: indigo;
+}
+.img1{
+    margin: 20px;
+}
+.figure1{
+    background:  #00cccc;
+    padding: 10px; 
+    width: 430px; 
+    float: center; 
+    margin: 0 10px 10px 0; 
+    text-align: center;
+    color: gold; 
+    border-color: #003333;
+    border-style: ridge; 
+    padding: 4px;
+}
+figure img{
+    margin: 20px;
+}
+.figure2{
+    background: #FFD700;
+    padding: 15px;
+    width: 350px;
+    float: right;
+    margin: 0 15px 15px 0;
+    text-align: center;
+    color: darkblue;
+    border-color: #003333;
+    border-style: revert;
+    padding: 8px;
+}
+.figure3{
+    background: #32CD32;
+    padding: 4px;
+    width: 550px;
+    margin: auto;
+    text-align: center;
+    color: darkred;
+}
+.figcaption1 {
+  background-color: darkorange;
+  color: navy;
+  font-family: 'Rubik Wet Paint', cursive;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+.figcaption2{
+    background-color: aqua;
+    color: darkred;
+    font-family: 'Rubik Beastly', cursive;
+    font-style: inherit;
+    margin: 4px;
+    text-align: center;
+}
+.figcaption3{
+    background-color: black;
+    color: orange;
+    font-family: 'Rubik Gemstones', cursive;
+    font-style: oblique;
+    margin: 6px;
+    text-align: center;
+}
+.figure4{
+    background: #FFD700;
+    padding: 4px;
+    width: 1150px;
+    margin: auto;
+    text-align: center;
+    color: limegreen;
+}
+.figcaption4{
+    background-color: blue;
+    color: yellow;
+    font-family: 'Rubik Dirt', cursive;
+    font-style: oblique;
+    margin: 6px;
+    text-align: center;
+}
